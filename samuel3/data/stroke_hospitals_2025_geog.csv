@@ -30,13 +30,14 @@ Queen Elizabeth Hospital Kings Lynn,PE304ET,PE304ET,England,East of England SCN,
 Southend Hospital,SS00RY,SS00RY,England,East of England SCN,Southend University Hospital NHS Foundation Trust,Southend Hospital,586491,187309,0.688617436073188,51.5538375205588,Southend,E01015858
 Watford General Hospital,WD180HB,WD180HB,England,East of England SCN,West Hertfordshire Hospitals NHS Trust,Watford General Hospital,510505,195664,-0.404187444550669,51.6489209238077,Watford,E01023902
 West Suffolk Hospital,IP332QZ,IP332QZ,England,East of England SCN,West Suffolk NHS Foundation Trust,"West Suffolk Hospital, Bury St Edmunds",585110,262732,0.709175611560873,52.2316622761548,Bury St Edmunds,E01030142
+Princess Alexandra Hospital,CM201QX,CM20 1QX,England,East of England SCN,Princess Alexandra Hospital NHS Trust,"Princess Alexandra Hospital, Harlow",543989,210152,0.0855,51.7715,Harlow,E01021843
 Queens Hospital Burton upon Trent,DE130RB,DE130RB,England,West Midlands SCN,Burton Hospitals NHS Foundation Trust,"Queens Hospital, Burton upon Trent",423255,324526,-1.65638366252344,52.8177750228077,Burton upon Trent,E01029435
-Russells Hall Hospital,DY12HQ,DY12HQ,England,West Midlands SCN,Dudley Group of Hospitals NHS Foundation Trust,University Hospitals Dorset HASU,392052,289456,-2.11851753607567,52.5029438515581,Dudley,E01009884
+Russells Hall Hospital,DY12HQ,DY12HQ,England,West Midlands SCN,Dudley Group of Hospitals NHS Foundation Trust,Russells Hall Hospital,392052,289456,-2.11851753607567,52.5029438515581,Dudley,E01009884
 George Eliot Hospital,CV107DJ,CV107DJ,England,West Midlands SCN,George Eliot Hospital NHS Trust,"George Eliot Hospital, Nuneaton",435493,290649,-1.47843913962804,52.5125803721024,Nuneaton,E01031049
 Birmingham Heartlands Hospital,B95SS,B95SS,England,West Midlands SCN,Heart of England NHS Foundation Trust,Birmingham Heartlands Hospital,411645,286935,-1.82996554832526,52.4802180240312,Birmingham,E01009341
 New Cross Hospital,WV100QP,WV100QP,England,West Midlands SCN,Royal Wolverhampton NHS Trust,"New Cross Hospital, Wolverhampton",393625,300219,-2.09555502091003,52.5997224486091,Wolverhampton,E01010476
 Sandwell District Hospital,B714HJ,B714HJ,England,West Midlands SCN,Sandwell and West Birmingham Hospitals NHS Trust,"Sandwell District Hospital, West Bromwich",400919,292165,-1.98788440403735,52.5273565194392,West Bromwich,E01010104
-Princess Of Wales Hospital,TF16TF,TF16TF,England,West Midlands SCN,Shrewsbury and Telford Hospital NHS Trust,"Princess Royal Hospital, Telford",365542,312839,-2.51149065773073,52.7121067752855,Telford,E01014102
+Princess Royal Hospital Telford,TF16TF,TF16TF,England,West Midlands SCN,Shrewsbury and Telford Hospital NHS Trust,"Princess Royal Hospital, Telford",365542,312839,-2.51149065773073,52.7121067752855,Telford,E01014102
 Warwick Hospital,CV345BW,CV345BW,England,West Midlands SCN,South Warwickshire NHS Foundation Trust,Warwick Hospital,428507,265853,-1.58347787164848,52.2900769531026,Warwick,E01031323
 Queen Elizabeth Hospital Edgbaston,B152TH,B152TH,England,West Midlands SCN,University Hospitals Birmingham NHS Foundation Trust,"Queen Elizabeth Hospital, Birmingham",404278,283916,-1.93847612191795,52.4531832173322,Birmingham,E01033562
 University Hospital Coventry,CV22DX,CV22DX,England,West Midlands SCN,University Hospitals Coventry and Warwickshire NHS Trust,"University Hospital, Coventry",438289,280506,-1.43840317011227,52.4212107828131,Coventry,E01009580
@@ -78,13 +79,13 @@ Doncaster Royal Infirmary,DN25LT,DN25LT,England,Yorkshire and The Humber SCN,Don
 Harrogate District Hospital,HG27SX,HG27SX,England,Yorkshire and The Humber SCN,Harrogate and District NHS Foundation Trust,Harrogate District Hospital,431726,455415,-1.51757344983443,53.9938065833968,Harrogate,E01027649
 Hull Royal Infirmary,HU32JZ,HU32JZ,England,Yorkshire and The Humber SCN,Hull and East Yorkshire Hospitals NHS Trust,Hull Royal Infirmary,508378,428777,-0.35814636322612,53.7441134781378,Hull,E01012852
 Leeds General Infirmary,LS13EX,LS13EX,England,Yorkshire and The Humber SCN,Leeds Teaching Hospitals NHS Trust,Leeds General Infirmary,429621,433998,-1.55174354469066,53.8014451910239,Leeds,E01033008
-Peterborough City Hospital,WF14DG,WF14DG,England,Yorkshire and The Humber SCN,Mid Yorkshire Hospitals NHS Trust,"Pinderfields Hospital, Wakefield",433870,421896,-1.48855528596908,53.6924180571396,Wakefield,E01011884
+Pinderfields Hospital,WF14DG,WF14DG,England,Yorkshire and The Humber SCN,Mid Yorkshire Hospitals NHS Trust,"Pinderfields Hospital, Wakefield",433870,421896,-1.48855528596908,53.6924180571396,Wakefield,E01011884
 Scunthorpe General Hospital,DN157BH,DN157BH,England,Yorkshire and The Humber SCN,Northern Lincolnshire and Goole Hospitals NHS Foundation Trust,Scunthorpe General Hospital,488297,410936,-0.667599071909811,53.5875824511185,Scunthorpe,E01013333
 Rotherham Hospital,S602UD,S602UD,England,Yorkshire and The Humber SCN,Rotherham NHS Foundation Trust,Rotherham General Hospital,443775,390997,-1.34288040232801,53.4139722161877,Rotherham,E01007678
 Royal Hallamshire Hospital,S102JF,S102JF,England,Yorkshire and The Humber SCN,Sheffield Teaching Hospitals NHS Foundation Trust,"Royal Hallamshire Hospital, Sheffield",433803,386953,-1.49333119170473,53.3783547730104,Sheffield,E01007866
 York Hospital,YO318HE,YO318HE,England,Yorkshire and The Humber SCN,York Teaching Hospital NHS Foundation Trust,York Hospital,460168,452930,-1.08428478372354,53.9689521446767,York,E01013343
 St Peter's Hospital,KT160PZ,KT160PZ,England,South East SCN,Ashford and St Peter's Hospitals NHS Foundation Trust,"St Peter's Hospital, Chertsey",502611,165338,-0.527060332771996,51.3778316232928,Chertsey,E01030677
-Prince Philip Hospital,RH164EX,RH164EX,England,South East SCN,Brighton and Sussex University Hospitals NHS Trust,"Princess Royal Hospital, Haywards Heath",534125,123035,-0.0902821976581086,50.9910947638668,Haywards Heath,E01031756
+Princess Royal Hospital Haywards Heath,RH164EX,RH164EX,England,South East SCN,Brighton and Sussex University Hospitals NHS Trust,"Princess Royal Hospital, Haywards Heath",534125,123035,-0.0902821976581086,50.9910947638668,Haywards Heath,E01031756
 Royal Sussex County Hospital,BN25BE,BN25BE,England,South East SCN,Brighton and Sussex University Hospitals NHS Trust,"Royal Sussex County Hospital, Brighton",532654,103901,-0.118176639143772,50.8194683143702,Brighton,E01016862
 Darent Valley Hospital,DA28DA,DA28DA,England,South East SCN,Dartford and Gravesham NHS Trust,"Darent Valley Hospital, Dartford",557094,173081,0.258644906557562,51.4349523086993,Dartford,E01024133
 Invicta Ward Kent and Canterbury Hospital,CT13NG,CT13NG,England,South East SCN,East Kent Hospitals University NHS Foundation Trust,Kent and Canterbury Hospital,615456,156464,1.08708325821267,51.2665886862216,Canterbury,E01024046
@@ -95,7 +96,7 @@ Epsom Hospital,KT187EG,KT187EG,England,South East SCN,Epsom and St Helier Univer
 Frimley Park Hospital,GU167UJ,GU167UJ,England,South East SCN,Frimley Health NHS Foundation Trust,Frimley Park Hospital,487761,158591,-0.742028678899665,51.319666275095,Frimley Park,E01030768
 Maidstone District General Hospital,ME169QQ,ME169QQ,England,South East SCN,Maidstone and Tunbridge Wells NHS Trust,Maidstone District General Hospital,573362,155654,0.483973960618425,51.2736620056562,Maidstone,E01033088
 None (for 72h care),TN24QJ,TN24QJ,England,South East SCN,Maidstone and Tunbridge Wells NHS Trust,Tunbridge Wells Hospital,561472,141407,0.307262014883147,51.1491492354431,Tunbridge Wells,E01024825
-None (for 72h care),ME75NY,ME75NY,England,South East SCN,Medway NHS Foundation Trust,"Medway Maritime Hospital, Gillingham",577004,167601,0.542061733588743,51.3798619273707,Gillingham,E01016045
+Medway Maritime Hospital,ME75NY,ME75NY,England,South East SCN,Medway NHS Foundation Trust,"Medway Maritime Hospital, Gillingham",577004,167601,0.542061733588743,51.3798619273707,Gillingham,E01016045
 None (for 72h care),GU27XX,GU27XX,England,South East SCN,Royal Surrey County Hospital NHS Foundation Trust,"Royal Surrey County Hospital, Guildford",497304,150014,-0.607462569691107,51.2410161309746,Guildford,E01030470
 East Surrey Hospital,RH15RH,RH15RH,England,South East SCN,Surrey and Sussex Healthcare NHS Trust,"East Surrey Hospital, Redhill",528458,148271,-0.162009298908532,51.2191939720502,Redhill,E01030572
 St Richards Hospital,PO196SE,PO196SE,England,South East SCN,Western Sussex Hospitals NHS Trust,"St Richards Hospital, Chichester",486835,105615,-0.768026899069288,50.8435534715906,Chichester,E01031488
@@ -125,15 +126,15 @@ Royal Hampshire County Hospital,SO225DG,SO225DG,England,Wessex SCN,Hampshire Hos
 St Mary's Hospital Newport,PO305TG,PO305TG,England,Wessex SCN,Isle of Wight NHS Trust,"St Mary's Hospital, Newport",449427,90367,-1.30132993714197,50.7108429611941,Newport,E01017334
 Poole Hospital,BH152JB,BH152JB,England,Wessex SCN,Poole Hospital NHS Foundation Trust,Poole Hospital,401994,91374,-1.97311685675033,50.7219873441308,Poole,E01015468
 Queen Alexandra Hospital Portsmouth,PO63LY,PO63LY,England,Wessex SCN,Portsmouth Hospitals NHS Trust,"Queen Alexandra Hospital, Portsmouth",465570,106054,-1.06993179364148,50.8502973944385,Portsmouth,E01017051
-University Hospitals Dorset HASU,BH77DW,BH77DW,England,Wessex SCN,Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,Royal Bournemouth Hospital,412759,94224,-1.82051953842013,50.7474817307173,Bournemouth,E01015319
+University Hospitals Dorset Stroke Service,BH77DW,BH77DW,England,Wessex SCN,Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,Royal Bournemouth Hospital,412759,94224,-1.82051953842013,50.7474817307173,Bournemouth,E01015319
 Southampton General Hospital,SO166YD,SO166YD,England,Wessex SCN,University Hospital Southampton NHS Foundation Trust,Southampton General Hospital,439793,114993,-1.43510397517124,50.9330193381314,Southampton,E01017251
 Grange University Hospital,NP448YN,NP44 8YN,Wales,Wales,Wales,Grange University Hospital (Newport),331159,194636,-2.99633138621035,51.6462884019269,Newport,W01001508
 Glan Clwyd District General Hospital,LL185UJ,LL18 5UJ,Wales,Wales,Wales,Glan Clwyd District General Hospital (Rhyl),300309,376019,-3.49634519469325,53.2717550491881,Rhyl,W01000191
 Maelor Hospital,LL137TD,LL13 7TD,Wales,Wales,Wales,Maelor Hospital (Wrexham),332375,350356,-3.01018020325524,53.0461733909502,Wrexham,W01000349
 Ysbyty Gwynedd,LL572PW,LL57 2PW,Wales,Wales,Wales,Ysbyty Gwynedd (Bangor),255857,370173,-4.15982510460998,53.2090195511646,Bangor,W01000102
 University Hospital of Wales,CF144XW,CF14 4XW,Wales,Wales,Wales,University Hospital of Wales (Cardiff),317551,179319,-3.18936031675543,51.5067643318912,Cardiff,W01001770
-Pinderfields Hospital,CF479DT,CF47 9DT,Wales,Wales,Wales,Prince Charles Hospital (Merthyr Tydfil),304481,208161,-3.38550448851503,51.7639540082508,Merthyr Tydfil,W01001299
-Prince Charles Hospital,CF311RQ,CF31 1RQ,Wales,Wales,Wales,Princess Of Wales Hospital (Bridgend),291047,181033,-3.5716381846259,51.5176763869279,Bridgend,W01001038
+Prince Charles Hospital,CF479DT,CF47 9DT,Wales,Wales,Wales,Prince Charles Hospital (Merthyr Tydfil),304481,208161,-3.38550448851503,51.7639540082508,Merthyr Tydfil,W01001299
+Princess Of Wales Hospital,CF311RQ,CF31 1RQ,Wales,Wales,Wales,Princess Of Wales Hospital (Bridgend),291047,181033,-3.5716381846259,51.5176763869279,Bridgend,W01001038
 Bronglais Hospital,SY231ER,SY23 1ER,Wales,Wales,Wales,Bronglais Hospital (Aberystwyth),259208,281805,-4.07157747719359,52.4160678421817,Aberystwyth,W01000512
 Prince Philip Hospital,SA148QF,SA14 8QF,Wales,Wales,Wales,Prince Philip Hospital (Llanelli),252459,201367,-4.13597414237787,51.6916123753968,Llanelli,W01000652
 West Wales General,SA312AF,SA31 2AF,Wales,Wales,Wales,West Wales General (Carmarthen),242792,221240,-4.28472260396951,51.8675241877699,Carmarthen,W01000640
